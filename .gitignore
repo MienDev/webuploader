@@ -5,6 +5,8 @@
 /doc
 server/*
 dist/
+!server/preview.php
+!server/crossdomain.xml
 .tags
 .tags_sorted_by_file
 /flash/bin-debug
